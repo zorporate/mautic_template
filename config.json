@@ -4,7 +4,6 @@
    "authorUrl": "",
    "features": [
      "page",
-     "email",
      "form"
    ]
  }
